@@ -1,0 +1,22 @@
+1. git init
+2. git remote add origin your_github_repo_url
+Ex. = git remote add origin https://github.com/ng-mahesh/jspm-university-fdp-0526.git
+3. Verify origin - git remote -v
+4. Check git status: git status
+5. Add project files: git add .
+6. Commit changes: git commit -m "commit_msg"
+
+(if you are able to see the current branch is master not main)
+git branch -M main
+
+7. Push the code: git push -u origin main
+   git pull origin main --allow-unrelated-histories
+
+8. git push origin main
+
+To check current git branch:
+git branch
+
+To create a new branch from your current branch:
+git checkout -b "branch_name"
+

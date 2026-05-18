@@ -1,0 +1,37 @@
+# Day -1
+
+VS Extensions
+
+**Prettier - Code formatter**
+
+**ESLint**
+
+**GitLens — Git supercharged**
+
+**Auto Close Tag**
+
+**Live Server**
+
+Git for Windows:
+
+https://git-scm.com/install/windows
+
+MongoDB
+
+https://www.mongodb.com/
+
+MongoDB Community Server (Local)
+
+https://www.mongodb.com/try/download/community
+
+PostMan
+
+https://www.postman.com/downloads/
+
+Bruno
+
+https://www.usebruno.com/
+
+TypeScript Docs
+
+https://www.typescriptlang.org/docs/
