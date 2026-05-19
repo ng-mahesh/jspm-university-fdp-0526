@@ -1,0 +1,6 @@
+1. create a new vite app:
+npm create vite@latest my-react-practice -- --template react-ts
+
+
+Enter `npm install` command when you are in project directory to run the app.
+To run the app use command - `npm run dev'
