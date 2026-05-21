@@ -1,0 +1,20 @@
+Setup for express.js project:
+1. initalize the app/project
+npm init -y
+
+2. Install expess
+npm install express
+
+3. Install typescript and type defination for the development
+npm install -D typescript @types/express ts-node-dev
+
+4. Init typescript config(creates a tsconfig.json)
+npx tsc --init
+
+5. update the package.json with script:
+"scripts": {
+    "dev": "ts-node-dev --respawn src/index.ts"
+}
+
+Rest Client for VS:
+Thunder Client
